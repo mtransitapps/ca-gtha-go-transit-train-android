@@ -1,7 +1,7 @@
 Title: GO Transit Train - MonTransit
 ----------
 Short description:
-Greater Toronto & Hamilton Area GO Transit trains for MonTransit BETA
+GTHA GO Transit trains for MonTransit BETA.
 Schedule. News.
 ----------
 What's new in this version?:

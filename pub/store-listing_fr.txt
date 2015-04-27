@@ -1,8 +1,8 @@
 Title: Train GO Transit - MonTransit
 ----------
 Short description:
-Trains GO Transit de la Region de Toronto et Hamilton (GTHA) pour MonTransit BETA
-Horaires. Nouvelles
+Trains GO Transit du GTHA pour MonTransit BETA.
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 11 Avril 2015 au 26 Juin 2015.
