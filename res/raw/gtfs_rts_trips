@@ -4,11 +4,11 @@
 200,0,'Union',2
 301,0,'Kitchener',3
 300,0,'Union',3
-500,0,'Barrie',5
-501,0,'Union',5
-600,0,'Richmond Hill',6
-601,0,'Union',6
+501,0,'Barrie',5
+500,0,'Union',5
+601,0,'Richmond Hl',6
+600,0,'Union',6
 700,0,'Stouffville',7
 701,0,'Union',7
-901,0,'East',9
-900,0,'Union',9
+900,0,'East',9
+901,0,'Union',9
