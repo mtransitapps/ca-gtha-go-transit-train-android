@@ -7,25 +7,67 @@
     <string-array name="twitter_screen_names">
         <item>GOtransit</item>
         <item>GOtransitFR</item>
+        <item>GOtransitBR</item> <!-- Barrie -->
+        <item>GOtransitKT</item> <!-- Kitchener -->
+        <item>GOtransitLE</item> <!-- Lakeshore East -->
+        <item>GOtransitLW</item> <!-- Lakeshore West -->
+        <item>GOtransitMI</item> <!-- Milton -->
+        <item>GOtransitRH</item> <!-- Richmond Hill -->
+        <item>GOtransitST</item> <!-- Stouffville -->
     </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>en</item>
         <item>fr</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
     </string-array>
     <string-array name="twitter_screen_names_colors">
         <item>@string/twitter_color</item>
         <item>@string/twitter_color</item>
+        <item>003767</item> <!-- Barrie -->
+        <item>00853E</item> <!-- Kitchener -->
+        <item>FF0D00</item> <!-- Lakeshore East -->
+        <item>98002E</item> <!-- Lakeshore West -->
+        <item>F57F25</item> <!-- Milton -->
+        <item>0099C7</item> <!-- Richmond Hill -->
+        <item>794500</item> <!-- Stouffville -->
     </string-array>
     <string-array name="twitter_screen_names_target">
         <item>@string/twitter_target_for_poi_authority</item>
         <item>@string/twitter_target_for_poi_authority</item>
+        <item>org.mtransit.android.ca_gtha_go_transit_train.gtfs-5</item> <!-- Barrie -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.gtfs-3</item> <!-- Kitchener -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.gtfs-9</item> <!-- Lakeshore East -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.gtfs-1</item> <!-- Lakeshore West -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.gtfs-2</item> <!-- Milton -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.gtfs-6</item> <!-- Richmond Hill -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.gtfs-7</item> <!-- Stouffville -->
     </string-array>
     <integer-array name="twitter_screen_names_severity">
         <item>@integer/news_provider_severity_info_agency</item>
         <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
     </integer-array>
     <string-array name="twitter_screen_names_noteworthy">
         <item>@string/news_provider_noteworthy_info</item>
         <item>@string/news_provider_noteworthy_info</item>
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_warning</item>
     </string-array>
 </resources>
