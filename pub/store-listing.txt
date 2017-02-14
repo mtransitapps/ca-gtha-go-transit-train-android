@@ -5,13 +5,13 @@ GTHA GO Transit trains for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from January 12, 2017 to April 7, 2017.
-Tweets from @GOtransit.
+Schedule from February 13, 2017 to April 7, 2017.
+Tweets from @GOtransit, @GOtransitBR, @GOtransitKT, @GOtransitLE, @GOtransitLW, @GOtransitMI, @GOtransitRH and @GOtransitST.
 ----------
 Full description:
 This app adds Greater Toronto & Hamilton Area GO trains information to MonTransit.
 
-This app provides the planned schedule as well as real time service statuses and news from YouTube and @GOtransit on Twitter.
+This app provides the planned schedule as well as real time service statuses and news from YouTube and @GOtransit, @GOtransitBR, @GOtransitKT, @GOtransitLE, @GOtransitLW, @GOtransitMI, @GOtransitRH and @GOtransitST on Twitter.
 
 GO Transit trains serve Toronto, Hamilton, Halton, Peel, York, Durham, Niagara, Waterloo, Peterborough, Simcoe, Dufferin, Wellington in Ontario, Canada.
 
