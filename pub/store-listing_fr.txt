@@ -5,7 +5,7 @@ Trains GO Transit du GTHA pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 12 décembre 2017 au 6 avril 2018.
+Horaires du 22 janvier 2018 au 6 avril 2018.
 Tweets de @GOtransitFR, @GOtransitBR, @GOtransitKT, @GOtransitLE, @GOtransitLW, @GOtransitMI, @GOtransitRH et @GOtransitST.
 ----------
 Full description:
