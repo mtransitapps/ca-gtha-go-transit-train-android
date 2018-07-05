@@ -5,7 +5,7 @@ GTHA GO Transit trains for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from June 19, 2018 to August 31, 2018.
+Schedule from June 29, 2018 to August 31, 2018.
 Tweets from @GOtransit, @GOtransitBR, @GOtransitKT, @GOtransitLE, @GOtransitLW, @GOtransitMI, @GOtransitRH and @GOtransitST.
 ----------
 Full description:
