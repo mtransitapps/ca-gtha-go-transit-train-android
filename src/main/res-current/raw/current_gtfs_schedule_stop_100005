@@ -1,156 +1,144 @@
-'20240209',100,105800,0,'St.Niagara Falls',1
-'20240209',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240210',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240210',101,123000,0,'St.Union',1,40000,0,'St.Union',1
-'20240211',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240211',101,123000,0,'St.Union',1,40000,0,'St.Union',1
-'20240212',100,105800,0,'St.Niagara Falls',1
-'20240212',101,65500,0,'St.Union',1,67900,0,'St.Union',1
-'20240213',100,105800,0,'St.Niagara Falls',1
-'20240213',101,65500,0,'St.Union',1,67900,0,'St.Union',1
-'20240214',100,105800,0,'St.Niagara Falls',1
-'20240214',101,65500,0,'St.Union',1,67900,0,'St.Union',1
-'20240215',100,105800,0,'St.Niagara Falls',1
-'20240215',101,65500,0,'St.Union',1,67900,0,'St.Union',1
-'20240216',100,105800,0,'St.Niagara Falls',1
-'20240216',101,65500,0,'St.Union',1,67900,0,'St.Union',1
-'20240217',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240217',101,123000,0,'St.Union',1,40000,0,'St.Union',1
-'20240218',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240218',101,123000,0,'St.Union',1,40000,0,'St.Union',1
-'20240219',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240219',101,123000,0,'St.Union',1,40000,0,'St.Union',1
-'20240220',100,105800,0,'St.Niagara Falls',1
-'20240220',101,65500,0,'St.Union',1,67900,0,'St.Union',1
-'20240221',100,105800,0,'St.Niagara Falls',1
-'20240221',101,65500,0,'St.Union',1,67900,0,'St.Union',1
-'20240222',100,105800,0,'St.Niagara Falls',1
-'20240222',101,65500,0,'St.Union',1,67900,0,'St.Union',1
-'20240223',100,105800,0,'St.Niagara Falls',1
-'20240223',101,65500,0,'St.Union',1,67900,0,'St.Union',1
-'20240224',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240224',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240225',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240225',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240226',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240226',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240227',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240227',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240228',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240228',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240229',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240229',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240301',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240301',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240302',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240302',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240303',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240303',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240304',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240304',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240305',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240305',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240306',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240306',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240307',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240307',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240308',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240308',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240309',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240309',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240310',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240310',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240311',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240311',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240312',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240312',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240313',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240313',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240314',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240314',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240315',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240315',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240316',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240316',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240317',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240317',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240318',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240318',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240319',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240319',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240320',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240320',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240321',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240321',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240322',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240322',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240323',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240323',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240324',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240324',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240325',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240325',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240326',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240326',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240327',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240327',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240328',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240328',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240329',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240329',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240330',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240330',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240331',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240331',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240401',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240401',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240402',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240402',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240403',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240403',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240404',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240404',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240405',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240405',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240406',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240406',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240407',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240407',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240408',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240408',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240409',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240409',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240410',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240410',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240411',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240411',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240412',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240412',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240413',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240413',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240414',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240414',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240415',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240415',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240416',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240416',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240417',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240417',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240418',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240418',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240419',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240419',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240420',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240420',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240421',100,105700,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1,39900,0,'St.Niagara Falls',1
-'20240421',101,123000,0,'St.Union',1,40000,0,'St.Union',1,41600,0,'St.Union',1
-'20240422',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240422',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240423',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240423',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240424',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240424',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240425',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240425',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
-'20240426',100,105800,0,'St.Niagara Falls',1,87200,0,'St.Niagara Falls',1,51400,0,'St.Niagara Falls',1
-'20240426',101,65500,0,'St.Union',1,67900,0,'St.Union',1,80000,0,'St.Union',1
+'20240215',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240215',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240216',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240216',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240217',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240217',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240218',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240218',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240219',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240219',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240220',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240220',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240221',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240221',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240222',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240222',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240223',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240223',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240224',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240224',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240225',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240225',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240226',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240226',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240227',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240227',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240228',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240228',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240229',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240229',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240301',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240301',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240302',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240302',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240303',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240303',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240304',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240304',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240305',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240305',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240306',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240306',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240307',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240307',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240308',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240308',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240309',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240309',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240310',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240310',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240311',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240311',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240312',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240312',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240313',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240313',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240314',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240314',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240315',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240315',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240316',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240316',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240317',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240317',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240318',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240318',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240319',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240319',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240320',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240320',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240321',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240321',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240322',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240322',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240323',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240323',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240324',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240324',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240325',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240325',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240326',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240326',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240327',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240327',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240328',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240328',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240329',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240329',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240330',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240330',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240331',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240331',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240401',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240401',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240402',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240402',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240403',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240403',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240404',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240404',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240405',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240405',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240406',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240406',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240407',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240407',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240408',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240408',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240409',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240409',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240410',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240410',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240411',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240411',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240412',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240412',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240413',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240413',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240414',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240414',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240415',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240415',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240416',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240416',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240417',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240417',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240418',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240418',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240419',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240419',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240420',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240420',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240421',100,105700,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1,39900,0,'''St.Niagara Falls',1
+'20240421',101,123000,0,'''St.Union Sta''',1,40000,0,'''St.Union Sta''',1,41600,0,'''St.Union Sta''',1
+'20240422',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240422',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240423',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240423',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240424',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240424',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240425',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240425',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
+'20240426',100,105800,0,'''St.Niagara Falls',1,87200,0,'''St.Niagara Falls',1,51400,0,'''St.Niagara Falls',1
+'20240426',101,65500,0,'''St.Union Sta''',1,67900,0,'''St.Union Sta''',1,80000,0,'''St.Union Sta''',1
