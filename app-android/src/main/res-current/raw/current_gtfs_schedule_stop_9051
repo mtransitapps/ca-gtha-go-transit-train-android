@@ -1,13 +1,3 @@
-'20240606',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
-'20240606',601,63100,0,'''Union Sta''',1,10000,0,'''Union Sta''',1,7000,0,'''Union Sta''',1,3000,0,'''Union Sta''',1
-'20240607',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
-'20240607',601,63100,0,'''Union Sta''',1,10000,0,'''Union Sta''',1,7000,0,'''Union Sta''',1,3000,0,'''Union Sta''',1
-'20240610',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
-'20240610',601,63100,0,'''Union Sta''',1,10000,0,'''Union Sta''',1,7000,0,'''Union Sta''',1,3000,0,'''Union Sta''',1
-'20240611',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
-'20240611',601,63100,0,'''Union Sta''',1,10000,0,'''Union Sta''',1,7000,0,'''Union Sta''',1,3000,0,'''Union Sta''',1
-'20240612',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
-'20240612',601,63100,0,'''Union Sta''',1,10000,0,'''Union Sta''',1,7000,0,'''Union Sta''',1,3000,0,'''Union Sta''',1
 '20240613',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
 '20240613',601,63100,0,'''Union Sta''',1,10000,0,'''Union Sta''',1,7000,0,'''Union Sta''',1,3000,0,'''Union Sta''',1
 '20240614',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
@@ -80,6 +70,8 @@
 '20240801',601,63100,0,'''Union Sta''',1,10000,0,'''Union Sta''',1,7000,0,'''Union Sta''',1,3000,0,'''Union Sta''',1
 '20240802',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
 '20240802',601,63100,0,'''Union Sta''',1,10000,0,'''Union Sta''',1,7000,0,'''Union Sta''',1,3000,0,'''Union Sta''',1
+'20240805',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
+'20240805',601,63100,0,'''Union Sta''',1,10000,0,'''Union Sta''',1,7000,0,'''Union Sta''',1,3000,0,'''Union Sta''',1
 '20240806',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
 '20240806',601,63100,0,'''Union Sta''',1,10000,0,'''Union Sta''',1,7000,0,'''Union Sta''',1,3000,0,'''Union Sta''',1
 '20240807',600,161300,0,'''Bloomington',1,10000,0,'''Bloomington',1,3000,0,'''Bloomington',1,7000,0,'''Bloomington',1,10000,0,'''Bloomington',1
