@@ -15,6 +15,17 @@
         <item>GOtransitRH</item> <!-- Richmond Hill -->
         <item>GOtransitST</item> <!-- Stouffville -->
     </string-array>
+    <string-array name="twitter_screen_names_id">
+        <item>52188923</item>
+        <item>1857893034</item>
+        <item>720957373192474626</item> <!-- Barrie -->
+        <item>720954919319166976</item> <!-- Kitchener -->
+        <item>720947428426428416</item> <!-- Lakeshore East -->
+        <item>720950349373251585</item> <!-- Lakeshore West -->
+        <item>720959237577445376</item> <!-- Milton -->
+        <item>720963505780846593</item> <!-- Richmond Hill -->
+        <item>743842536930873344</item> <!-- Stouffville -->
+    </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>en</item>
         <item>fr</item>
