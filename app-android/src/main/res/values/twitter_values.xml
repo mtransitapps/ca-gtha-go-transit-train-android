@@ -7,6 +7,7 @@
     <string-array name="twitter_screen_names">
         <item>GOtransit</item>
         <item>GOtransitFR</item>
+        <!-- TODO https://api.openmetrolinx.com/OpenDataAPI/Help -->
         <item>GOtransitBR</item> <!-- Barrie -->
         <item>GOtransitKT</item> <!-- Kitchener -->
         <item>GOtransitLE</item> <!-- Lakeshore East -->
