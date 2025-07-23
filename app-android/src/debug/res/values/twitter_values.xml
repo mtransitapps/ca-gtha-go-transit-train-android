@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
+    <string-array name="twitter_screen_names_target">
+        <item />
+        <item />
+        <item>org.mtransit.android.ca_gtha_go_transit_train.debug.gtfs-5</item> <!-- Barrie -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.debug.gtfs-3</item> <!-- Kitchener -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.debug.gtfs-9</item> <!-- Lakeshore East -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.debug.gtfs-1</item> <!-- Lakeshore West -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.debug.gtfs-2</item> <!-- Milton -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.debug.gtfs-6</item> <!-- Richmond Hill -->
+        <item>org.mtransit.android.ca_gtha_go_transit_train.debug.gtfs-7</item> <!-- Stouffville -->
+    </string-array>
+</resources>
