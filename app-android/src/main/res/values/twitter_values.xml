@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
-    <integer name="twitter_db_version">6</integer>
+    <integer name="twitter_db_version">7</integer>
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string-array name="twitter_screen_names">
         <item>GOtransit</item> <!-- Contact Center -->
         <item>GOtransitFR</item> <!-- Contact Center FR -->
-        <item>GOtransitBR</item> <!-- same as GTFS-RT --> <!-- Barrie -->
-        <item>GOtransitKT</item> <!-- same as GTFS-RT --> <!-- Kitchener -->
-        <item>GOtransitLE</item> <!-- same as GTFS-RT --> <!-- Lakeshore East -->
-        <item>GOtransitLW</item> <!-- same as GTFS-RT --> <!-- Lakeshore West -->
-        <item>GOtransitMI</item> <!-- same as GTFS-RT --> <!-- Milton -->
-        <item>GOtransitRH</item> <!-- same as GTFS-RT --> <!-- Richmond Hill -->
-        <item>GOtransitST</item> <!-- same as GTFS-RT --> <!-- Stouffville -->
+        <!-- <item>GOtransitBR</item> --><!-- same as GTFS-RT --> <!-- Barrie -->
+        <!-- <item>GOtransitKT</item> --><!-- same as GTFS-RT --> <!-- Kitchener -->
+        <!-- <item>GOtransitLE</item> --><!-- same as GTFS-RT --> <!-- Lakeshore East -->
+        <!-- <item>GOtransitLW</item> --><!-- same as GTFS-RT --> <!-- Lakeshore West -->
+        <!-- <item>GOtransitMI</item> --><!-- same as GTFS-RT --> <!-- Milton -->
+        <!-- <item>GOtransitRH</item> --><!-- same as GTFS-RT --> <!-- Richmond Hill -->
+        <!-- <item>GOtransitST</item> --><!-- same as GTFS-RT --> <!-- Stouffville -->
     </string-array>
     <string-array name="twitter_screen_names_id">
         <item>52188923</item>
