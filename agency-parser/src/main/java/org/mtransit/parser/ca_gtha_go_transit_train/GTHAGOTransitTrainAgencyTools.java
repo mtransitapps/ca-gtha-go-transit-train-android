@@ -5,12 +5,9 @@ import static org.mtransit.commons.StringUtils.EMPTY;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.parser.DefaultAgencyTools;
-import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
-import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
 
 import java.util.List;
@@ -343,6 +340,8 @@ public class GTHAGOTransitTrainAgencyTools extends DefaultAgencyTools {
 	private static final int SF_SID = 100010;
 	private static final String SID_CF = "CF";
 	private static final int CF_SID = 100011;
+	private static final String SID_MD = "MD";
+	private static final int MD_SID = 100012;
 
 	@Override
 	public @Nullable Integer convertStopIdFromCodeNotSupported(@NotNull String stopCode) {
@@ -498,6 +497,8 @@ public class GTHAGOTransitTrainAgencyTools extends DefaultAgencyTools {
 			return SF_SID;
 		case SID_CF:
 			return CF_SID;
+		case SID_MD:
+			return MD_SID;
 		default:
 			return super.convertStopIdFromCodeNotSupported(stopCode);
 		}
