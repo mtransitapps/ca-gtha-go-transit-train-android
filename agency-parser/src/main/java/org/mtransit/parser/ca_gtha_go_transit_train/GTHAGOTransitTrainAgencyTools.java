@@ -349,7 +349,7 @@ public class GTHAGOTransitTrainAgencyTools extends DefaultAgencyTools {
 	private static final int MD_SID = 100012;
 
 	@Override
-	public @Nullable Integer convertStopIdFromCodeNotSupported(@NotNull String stopCode) {
+	public @Nullable Integer convertStopIdNotSupported(@NotNull String stopCode) {
 		final String stopId = stopCode.trim();
 		switch (stopId) {
 		case SID_UN:
