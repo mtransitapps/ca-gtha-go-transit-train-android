@@ -505,7 +505,7 @@ public class GTHAGOTransitTrainAgencyTools extends DefaultAgencyTools {
 		case SID_MD:
 			return MD_SID;
 		default:
-			return super.convertStopIdFromCodeNotSupported(stopCode);
+			return super.convertStopIdNotSupported(stopCode);
 		}
 	}
 }
